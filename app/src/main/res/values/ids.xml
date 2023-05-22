@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bt1" type="id" />
+    <item name="bt0" type="id" />
+    <item name="bt2" type="id" />
+    <item name="bt3" type="id" />
+    <item name="bt4" type="id" />
+    <item name="bt5" type="id" />
+    <item name="subtract" type="id" />
+    <item name="bt6" type="id" />
+    <item name="bt7" type="id" />
+    <item name="bt8" type="id" />
+    <item name="bt9" type="id" />
+    <item name="calculate" type="id" />
+    <item name="delete" type="id" />
+    <item name="reset" type="id" />
+    <item name="divide" type="id" />
+</resources>
